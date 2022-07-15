@@ -1,9 +1,7 @@
 xyzservices
-json
 geopandas
 fiona
 ipywidgets
-IPython
 ipyleaflet
 PIL
 watermark
