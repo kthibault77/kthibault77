@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "photo": "D:\\Biotope\\Development Banks Projects\\AFD\\Hainan\\Mission_June-July2022\\Mangrove area\\IMG_20220701_083707.jpg", "filename": "IMG_20220701_083707", "directory": "D:\\Biotope\\Development Banks Projects\\AFD\\Hainan\\Mission_June-July2022\\Mangrove area", "altitude": -8.38, "direction": null, "rotation": null, "longitude": "110.53749847222223", "latitude": "20.00163459722222", "timestamp": "2022-07-01T08:37:08" }, "geometry": { "type": "Point", "coordinates": [ 110.537498472222225, 20.001634597222221, -8.38 ] } }
+]
+}

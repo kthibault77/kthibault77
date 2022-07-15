@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "photo": "D:\\Biotope\\Development Banks Projects\\AFD\\Hainan\\Mission_June-July2022\\Ponds close to mangrove\\DJI_0500.JPG", "filename": "DJI_0500", "directory": "D:\\Biotope\\Development Banks Projects\\AFD\\Hainan\\Mission_June-July2022\\Ponds close to mangrove", "altitude": 169.855, "direction": null, "rotation": 0, "longitude": "110.53938372222223", "latitude": "20.000245805555554", "timestamp": "2022-07-01T09:05:11" }, "geometry": { "type": "Point", "coordinates": [ 110.539383722222226, 20.000245805555554, 169.855 ] } }
+]
+}
