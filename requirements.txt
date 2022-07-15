@@ -3,5 +3,6 @@ geopandas
 fiona
 ipywidgets
 IPython
+pillow
 ipyleaflet
 watermark
