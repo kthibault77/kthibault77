@@ -1,7 +1,7 @@
 xyzservices==2022.6.0
 geopandas==0.10.2
 fiona==1.8.21
-json==2.0.9
+json==2.0.1
 ipywidgets==7.7.1
 IPython==8.4.0
 ipyleaflet==0.17.0
